@@ -774,9 +774,45 @@ h3.my-profession {
 
 .portfolio .portfolio-item-inner .portfolio-img img {
    width: 100% ;
+   max-height: 500px ;
    display: block ;
-
 }
+
+.portfolio-img {
+   position: relative;
+}
+
+.portfolio-img .info {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   padding: 15px;
+   width: 100% ;
+   background-color: rgba(0, 0, 0, 0.7);
+   color: #fff;
+ }
+ 
+ 
+ .portfolio-img .info h3 {
+   margin-top: 0;
+   margin-bottom: 5px;
+ }
+ 
+ .portfolio-img .info p {
+   margin-top: 0;
+   margin-bottom: 10px;
+ }
+ 
+ .portfolio-img .info .demo {
+   display: inline-block;
+   padding: 5px 10px;
+   background-color: var(--skin-color);
+   color: #000;
+   text-decoration: none;
+   border-radius: 4px ;
+ }
+
 
 
 
