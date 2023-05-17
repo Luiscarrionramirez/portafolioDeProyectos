@@ -944,7 +944,7 @@ h3.my-profession {
       height: 400px;
    }
    .section {
-      padding-left: 10px;
+      padding-left: 50px;
    }
 }
 
@@ -964,6 +964,7 @@ h3.my-profession {
 
    .aside.open  {
       left: 0 ;
+      height: 100vh ;
    }
    
    .aside .nav-toggler {
