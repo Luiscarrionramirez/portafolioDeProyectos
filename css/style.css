@@ -965,7 +965,11 @@ h3.my-profession {
    .aside.open  {
       left: 0 ;
    }
-   
+   
+   .aside .nav-toggler {
+      display: flex;
+      left: 40px ;
+   }
 
    .aside .nav-toggler.open {
       left: 300px ;
@@ -1018,7 +1022,7 @@ h3.my-profession {
    .about .about-content .experience,
    .about .about-content .skills,
    .about .about-content .personal-info {
-      flex: 0 0 50% ;
+      flex: 0 0 100% ;
       max-width: 100% ;
    }
 }
