@@ -965,10 +965,7 @@ h3.my-profession {
    .aside.open  {
       left: 0 ;
    }
-   
-   .aside .nav-toggler {
-      display: flex ;
-   }
+   
 
    .aside .nav-toggler.open {
       left: 300px ;
