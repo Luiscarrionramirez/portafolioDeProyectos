@@ -964,7 +964,7 @@ h3.my-profession {
 
    .aside.open  {
       left: 0 ;
-      height: 100vh ;
+      height: 100% ;
    }
    
    .aside .nav-toggler {
