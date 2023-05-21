@@ -1025,12 +1025,9 @@ h3.my-profession {
    .contact .contact-info-item,
    .portfolio .portfolio-item,
    .service .service-item,
-   .about .about-content .education,
-   .about .about-content .experience,
    .about .about-content .skills,
    .about .about-content .personal-info {
-      flex: 0 0 100% ;
-      max-width: 100% ;
+      max-width: 100vw ;
    }
 }
 
