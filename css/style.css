@@ -60,6 +60,7 @@ ul {
 .main-content {
    max-width: 100% ;
    padding-left: 200px; 
+   border: 1px solid red ;
 }
 
 .main-container {
