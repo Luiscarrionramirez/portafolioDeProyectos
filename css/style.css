@@ -60,12 +60,12 @@ ul {
 .main-content {
    max-width: 100% ;
    padding-left: 200px; 
-   border: 1px solid red ;
+   border: 3px solid red ;
 }
 
 .main-container {
    max-width: 100% ;
-   border: 1px solid green ;
+   border: 3px solid green ;
 
 }
 
