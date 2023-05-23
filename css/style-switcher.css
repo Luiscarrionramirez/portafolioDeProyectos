@@ -1,8 +1,7 @@
 
 .style-switcher {
     position: fixed ;
-    left: auto;
-    right: 25px;
+    right: 0 ;
     top: 60px;
     padding: 15px;
     width: 200px;
