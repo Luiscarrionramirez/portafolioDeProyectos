@@ -876,7 +876,7 @@ h3.my-profession {
    }
    .main-content {
       padding-left: 0px ;
-      position: absolute ;
+      position: relative ;
       z-index: 500 ;
    }
    .about .about-content .personal-info .info-item p span  {
