@@ -861,7 +861,7 @@ h3.my-profession {
    .aside .nav-toggler {
       display: flex;
       left: 25px ;
-      top: 100px ;
+      top: 55px ;
    }
 
    .aside .nav-toggler.open {
