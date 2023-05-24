@@ -852,6 +852,8 @@ h3.my-profession {
    .aside.open  {
       left: 0 ;
       height: 100% ;
+      position: fixed ;
+      z-index: 10000;
    }
    
    .aside .nav-toggler {
