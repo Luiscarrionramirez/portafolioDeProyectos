@@ -189,7 +189,7 @@ ul {
    display: flex ;
    justify-content: center ;
    align-items: center ;
-   z-index: 10 ;
+   z-index:1000 ;
    transition: all 0.3s ease ;
 }
 
@@ -241,6 +241,7 @@ ul {
    border: 1px solid var(--bg-black-50) ;
    cursor: pointer ;
    position: fixed ;
+   z-index:600;
    left: 270px ;
    top: 60px ;
    border-radius: 5px ;
@@ -832,7 +833,7 @@ h3.my-profession {
       height: 400px;
    }
    .section {
-      padding-left: 50px;
+      padding-left: 40px;
    }
 }
 
@@ -854,13 +855,13 @@ h3.my-profession {
       left: 0 ;
       height: 100% ;
       position: fixed ;
-      z-index: 10000;
+      z-index: 1000;
    }
    
    .aside .nav-toggler {
       display: flex;
       left: 25px ;
-      top: 25px ;
+      top: 55px ;
    }
 
    .aside .nav-toggler.open {
